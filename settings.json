@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Herobrine",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Herobrine",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "foreversmp1321.aternos.me",
+    "port": 51991,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Immortal!",
         "I like to play Minecraft!"
       ]
     },
